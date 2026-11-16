@@ -1,5 +1,7 @@
 # prog-for-cyber-cw1
 
+This repository contains a collection of Python scripts developed for my university coursework. Each task focuses on fundamental programming concepts—such as loops, dictionaries, modular code, and input validation—applied to basic cybersecurity scenarios.
+
 Student ID
 B01862966
 
@@ -17,3 +19,4 @@ This Python script demonstrates basic dictionary manipulation using a mock secur
 
 Task 5 Description
 This Python project splits security utilities into a custom module (security_tools.py) and imports them into a main script (main.py). The main program prompts for a password and an IP address, checking if the password meets length, digit, symbol, and spacing rules—automatically generating a random strong password if it's too weak—and verifying that the IP address follows a valid IPv4 format.
+
