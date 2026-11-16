@@ -14,7 +14,7 @@ Running Task 1: Authentication Simulator
    ```bash
    python3 task1_auth_menu.py
    ```
-2. Unlock the Master Password:** When prompted with `Enter password:`, type `1234` and press Enter to access the main menu.
+2. Unlock the Master Password: When prompted with `Enter password:`, type `1234` and press Enter to access the main menu.
 3. Select a Program: Enter a number from `1` to `4` to test each scenario:
    * Option 1 (`Event Counter`): Enter 10 password guesses (the target password is `6`).
    * Option 2 (`Brute Force`): Try guessing the password within 30 attempts (the target password is `root`).
