@@ -8,7 +8,7 @@ Lanarkshire
 
 This Python script is a simple password security program locked behind a master password. Once you're in, a menu lets you test three authentication exercises: tracking failed guesses out of 10, simulating a 30-try brute-force attack, and locking an account after 3 failed login attempts.
 
-Running Task 1: Authentication Simulator
+How to run: Authentication Simulator
 
 1. Navigate to the project folder in your terminal and run the script:
    ```bash
