@@ -12,7 +12,7 @@ How to run: Authentication Simulator
 
 1. Navigate to the project folder in your terminal and run the script:
    ```bash
-   python3 task1.py
+   python3 auth_menu.py
    ```
 2. Unlock the Master Password: When prompted with `Enter password:`, type `1234` and press Enter to access the main menu.
 3. Select a Program: Enter a number from `1` to `4` to test each scenario:
