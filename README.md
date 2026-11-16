@@ -1,7 +1,5 @@
 # prog-for-cyber-cw1
 
-This repository contains a collection of Python scripts developed for my university coursework. Each task focuses on fundamental programming concepts—such as loops, dictionaries, modular code, and input validation—applied to basic cybersecurity scenarios.
-
 Student ID
 B01862966
 Kerr Scott
