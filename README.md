@@ -7,7 +7,7 @@ Lanarkshire
 
 This Python script is a simple IPv4 address validator that continuously asks for an IP address and checks if it's properly formatted. It verifies that the input has four number sections separated by three dots, and ensures each section is a valid integer between 0 and 255 before printing whether it's valid or invalid.
 
-Running Task 3: IPv4 Address Validator
+How to run: IPv4 Address Validator
 
 1. Navigate to the project folder in your terminal and run the script:
    ```bash
